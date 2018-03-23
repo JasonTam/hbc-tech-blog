@@ -11,6 +11,8 @@ categories:
 tags:
 - numpy
 - sampling
+image:
+  feature: negative-sampling-in-numpy/sparse_matrix.png
 ---
 
 _Alright, time to have some fun exploring efficient negative sampling implementations in NumPy..._
